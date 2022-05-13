@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @luismgluis
 - 👀 I’m interested in create awesome proyects
 - 🌱 I’m currently learning react, node,
-- 💞️ I’m looking to collaborate on Truoura
+- 💞️ I’m looking to collaborate on a great company
 - 📫 How to reach me: Grajales805@gmail.com
 
 <!---

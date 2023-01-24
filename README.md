@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @luismgluis
-- 👀 I’m interested in create awesome proyects
+- 👀 I use creativity and logic = amazing things
 - 🌱 I’m currently learn Flutter, Nodejs advance with Mongodb
 - 📫 How to reach me: https://www.linkedin.com/in/luis-miguel-grajales 
 - Check my skills on my LinkedIn 
